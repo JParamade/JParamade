@@ -1,5 +1,5 @@
 # 💫 About Me:
-👦🏻 23, Spain. <br>🎮 Game Developer.<br>👾 Working on unannounced video game project at U-tad.
+👦🏻 23, Spain. <br>🎮 Game Developer.<br>👾 Working on an unannounced video game project at U-tad.
 
 
 ## 🌐 Socials:
