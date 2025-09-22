@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/Banner.png">
+</p> 
+
+
 # 💫 About Me:
 👦🏻 23, Spain. <br>🎮 Game Developer.<br>👾 Working on an unannounced video game project at U-tad.
 
