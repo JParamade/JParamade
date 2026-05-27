@@ -2,7 +2,7 @@
   <img src="assets/banner.png">
 </p> 
 
-# 👋 About Me
+## 👋 About Me
 
 🎮 From an early love for video games and music, I decided to pursue a career where creativity and logic meet. My journey began with a Bachelor’s Degree in Game Design at U-tad, where I specialized in technical design and developed a solid understanding of game design, production, and development using tools such as Unreal Engine, Unity, Godot, FMOD, Maya, and the Adobe Suite. During this time, I received a scholarship that allowed me to join the university’s research team, deepening my analytical and collaborative skills.
 
@@ -12,13 +12,13 @@
 
 🎵 With over a decade of background in music theory and piano, I find joy in blending creativity and technology to bring interactive experiences to life. Today, I aim to grow as a gameplay systems programmer, focusing on UI and audio, where code and design truly connect.
 
-# 🔗 Links
+## 🔗 Links
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=vercel&logoColor=white)](https://jparamade.com)
 [![CV](https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/CV_JaimeParamo.pdf)
 [![Steam](https://img.shields.io/badge/Steam-Dorothy's%20Job-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/3926730/Dorothys_Job/)
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### 🎮 Game Engines
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-5A5A5A?style=for-the-badge&logo=unrealengine&logoColor=white)
