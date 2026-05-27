@@ -12,7 +12,7 @@
 
 🎵 With over a decade of background in music theory and piano, I find joy in blending creativity and technology to bring interactive experiences to life. Today, I aim to grow as a gameplay systems programmer, focusing on UI and audio, where code and design truly connect.
 
-## 🌐 Links
+## 📎 Links
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=vercel&logoColor=white)](https://jparamade.com)
 [![CV](https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/CV_JaimeParamo.pdf)
