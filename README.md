@@ -2,7 +2,7 @@
   <img src="assets/banner.png">
 </p> 
 
-# 💫 About Me:
+# 👋 About Me:
 
 🎮 From an early love for video games and music, I decided to pursue a career where creativity and logic meet. My journey began with a Bachelor’s Degree in Game Design at U-tad, where I specialized in technical design and developed a solid understanding of game design, production, and development using tools such as Unreal Engine, Unity, Godot, FMOD, Maya, and the Adobe Suite. During this time, I received a scholarship that allowed me to join the university’s research team, deepening my analytical and collaborative skills.
 
@@ -11,6 +11,11 @@
 💻 To strengthen my technical foundation, I pursued a Master’s in Game Programming at U-tad, where I specialized in C++ and Unreal Engine 5, focusing particularly on UI and audio programming. For our final project, Dorothy’s Job, I served as UI, audio, and gameplay programmer, developing systems that supported core gameplay logic.
 
 🎵 With over a decade of background in music theory and piano, I find joy in blending creativity and technology to bring interactive experiences to life. Today, I aim to grow as a gameplay systems programmer, focusing on UI and audio, where code and design truly connect.
+
+## 🌐 Links
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=vercel&logoColor=white)](https://jparamade.com)
+[![CV](https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/CV_JaimeParamo.pdf)
 
 ## 🛠 Tech Stack
 
@@ -38,7 +43,3 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 🌐 Links
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=vercel&logoColor=white)](https://jparamade.com)
-[![CV](https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/CV_JaimeParamo.pdf)
