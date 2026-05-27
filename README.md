@@ -15,7 +15,8 @@
 ## 🌐 Links
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=vercel&logoColor=white)](https://jparamade.com)
-[![CV](https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/JParamade/JParamade/blob/main/assets/CV_JaimeParamo.pdf)
+[![CV](https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/CV_JaimeParamo.pdf)
+[![Steam](https://img.shields.io/badge/Steam-Dorothy's%20Job-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/3926730/Dorothys_Job/)
 
 ## 🛠 Tech Stack
 
